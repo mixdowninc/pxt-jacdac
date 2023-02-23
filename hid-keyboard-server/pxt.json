@@ -5,9 +5,9 @@
     "dependencies": {
         "core": "*",
         "keyboard": "*",
-        "jacdac": "github:microsoft/pxt-jacdac",
-        "jacdac-servers": "github:microsoft/pxt-jacdac/servers",
-        "jacdac-hid-keyboard": "github:microsoft/pxt-jacdac/hid-keyboard"
+        "jacdac": "github:mixdowninc/pxt-jacdac",
+        "jacdac-servers": "github:mixdowninc/pxt-jacdac/servers",
+        "jacdac-hid-keyboard": "github:mixdowninc/pxt-jacdac/hid-keyboard"
     },
     "files": [
         "server.ts"

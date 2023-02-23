@@ -6,8 +6,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "jacdac": "github:microsoft/pxt-jacdac",
-        "jacdac-servers": "github:microsoft/pxt-jacdac/servers"
+        "jacdac": "github:mixdowninc/pxt-jacdac",
+        "jacdac-servers": "github:mixdowninc/pxt-jacdac/servers"
     },
     "files": [
         "README.md",
